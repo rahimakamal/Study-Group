@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/3f01b333-c78a-48fa-a4f9-cbe9398b32f3" alt="Settings Page" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <img src="https://github.com/user-attachments/assets/0701ff74-9429-4fae-b084-b289e031c812" alt="User Profile" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <img src="https://github.com/user-attachments/assets/acf4619f-5286-464b-8235-947e70b8c07f" alt="Dark Mode" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <img src="https://github.com/user-attachments/assets/55fa8017-e109-4c25-8e97-3509ba50c4d3" alt="Database Schema" style="width: 45%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+ 
 </div>
 A Django web application with WebRTC functionality for real-time communication.
 
